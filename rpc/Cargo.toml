@@ -1,0 +1,10 @@
+[package]
+name = "svm-rpc"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "svm_rpc"
+path = "lib.rs"
+
+[dependencies]
